@@ -15,6 +15,16 @@ Slide through corridors, choose your route at junctions, and reach the exit. Eac
 - Saved level progression, move/time HUD, completion ratings, and pause/restart controls.
 - Adaptive camera framing and screen safe-area support.
 
+## Level gallery
+
+Actual in-game captures showing the changing color themes and increasing maze size. Click any image to view it at full resolution.
+
+| Level 8 · Larger layout | Level 14 · More complex routes |
+| --- | --- |
+| [![Level 8](docs/level-08.png)](docs/level-08.png) | [![Level 14](docs/level-14.png)](docs/level-14.png) |
+| **Level 19 · Expanded maze** | **Level 25 · Advanced maze** |
+| [![Level 19](docs/level-19.png)](docs/level-19.png) | [![Level 25](docs/level-25.png)](docs/level-25.png) |
+
 ## My role
 
 I designed and developed the game from start to finish: procedural generation, player movement, level progression, gameplay UI, and game integration.
@@ -57,7 +67,7 @@ The Windows development build includes an opt-in smoke check:
 .\Builds\Windows\Labirent.exe -batchmode --portfolio-smoke-test -logFile smoke.log
 ```
 
-It checks first-launch tutorial input handling, 40 seed/endpoint combinations for reachability and reproducibility, sliding solutions with and without corner following, an advanced level, pause/resume, restart, and completion-to-next-level flow. A successful run logs `PORTFOLIO_SMOKE_OK` and captures `docs/gameplay.png`. The check restores the prior level/tutorial preferences when it finishes.
+It checks first-launch tutorial input handling, 40 seed/endpoint combinations for reachability and reproducibility, sliding solutions with and without corner following, an advanced level, pause/resume, restart, and completion-to-next-level flow. A successful run logs `PORTFOLIO_SMOKE_OK` and captures `docs/gameplay.png` and the level gallery. The check restores the prior level/tutorial preferences when it finishes.
 
 ## Credits
 

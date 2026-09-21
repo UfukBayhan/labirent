@@ -86,6 +86,21 @@ public class PortfolioSmokeCheck : MonoBehaviour
         Check(manager.CurrentLevelIndex == 1 && !manager.IsTransitioning, "completion advances level");
         manager.SetLevel(0);
         yield return null;
+        CaptureFrame("gameplay.png");
+        foreach (int level in new[] { 8, 14, 19, 25 })
+        {
+            manager.SetLevel(level - 1);
+            yield return null;
+            yield return null;
+            CaptureFrame($"level-{level:00}.png");
+        }
+        RestorePreferences();
+        Debug.Log(failed ? "PORTFOLIO_SMOKE_FAILED" : "PORTFOLIO_SMOKE_OK");
+        Application.Quit(failed ? 1 : 0);
+    }
+
+    private static void CaptureFrame(string filename)
+    {
         // Capture the actual game and UI from the standalone player's camera.
         var camera = Camera.main;
         foreach (var canvas in FindObjectsByType<Canvas>(FindObjectsSortMode.None))
@@ -105,14 +120,11 @@ public class PortfolioSmokeCheck : MonoBehaviour
         image.Apply();
         var root = Path.GetFullPath(Path.Combine(Application.dataPath, "../../.."));
         Directory.CreateDirectory(Path.Combine(root, "docs"));
-        File.WriteAllBytes(Path.Combine(root, "docs/gameplay.png"), image.EncodeToPNG());
+        File.WriteAllBytes(Path.Combine(root, "docs", filename), image.EncodeToPNG());
         camera.targetTexture = null;
         RenderTexture.active = null;
         Destroy(rt);
         Destroy(image);
-        RestorePreferences();
-        Debug.Log(failed ? "PORTFOLIO_SMOKE_FAILED" : "PORTFOLIO_SMOKE_OK");
-        Application.Quit(failed ? 1 : 0);
     }
 
     private static string GridSignature(MazeGenerator maze)
