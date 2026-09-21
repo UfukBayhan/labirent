@@ -41,7 +41,6 @@ public class MazeGenerator : MonoBehaviour
     private Tile _floorTile;
     private Tile _wallTile;
 
-    // --- Dışarıya açtığımız bilgiler (PlayerController bunları kullanır) ---
     public int GridWidth => gridWidth;
     public int GridHeight => gridHeight;
 
@@ -123,7 +122,6 @@ public class MazeGenerator : MonoBehaviour
         gridWidth = logicalWidth * 2 + 1;
         gridHeight = logicalHeight * 2 + 1;
 
-        // 1) ZEMİN
         for (int x = 0; x < gridWidth; x++)
         {
             for (int y = 0; y < gridHeight; y++)
@@ -132,7 +130,6 @@ public class MazeGenerator : MonoBehaviour
             }
         }
 
-        // 2) DUVAR
         for (int x = 0; x < gridWidth; x++)
         {
             for (int y = 0; y < gridHeight; y++)
@@ -141,7 +138,6 @@ public class MazeGenerator : MonoBehaviour
             }
         }
 
-        // 3) DFS Maze
         System.Random rng = (seed == 0) ? new System.Random() : new System.Random(seed);
         Stack<Vector2Int> stack = new Stack<Vector2Int>();
 
@@ -171,7 +167,7 @@ public class MazeGenerator : MonoBehaviour
         OpenStartAndEnd();
         AddExtraOpenings(rng, Mathf.Clamp01(extraOpeningChance));
 
-        // Maze hazır -> dinleyenlere haber ver (Player kendini başa koyar)
+        // Oyuncu, labirent oluşturulduğunda başlangıç hücresine döner.
         OnMazeGenerated?.Invoke();
     }
 
@@ -312,8 +308,6 @@ public class MazeGenerator : MonoBehaviour
                 break;
         }
     }
-
-    // --- Yardımcılar ---
 
     /// Bir grid hücresinin dünya merkez noktası.
     public Vector3 CellToWorld(Vector3Int cell)

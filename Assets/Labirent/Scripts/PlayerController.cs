@@ -120,14 +120,12 @@ public class PlayerController : MonoBehaviour
             return;
 
         // Kayma sürerken hiçbir girişi işleme: slide bitene kadar dokunuşları yok say.
-        // (Aksi halde hareket sırasında ekrana dokunmak istenmeyen hareket üretiyordu.)
         if (isMoving)
         {
             AnimateMove();
             return;
         }
 
-        // Sadece player DURUYORKEN giriş kabul et
         Vector3Int dir = ReadKeyboardDir();
         if (dir == Vector3Int.zero)
             dir = ReadSwipeDir();
@@ -135,8 +133,6 @@ public class PlayerController : MonoBehaviour
         if (dir != Vector3Int.zero)
             TryMove(dir);
     }
-
-    // --- Girişler ---
 
     private Vector3Int ReadKeyboardDir()
     {
@@ -228,8 +224,6 @@ public class PlayerController : MonoBehaviour
             return delta.x > 0 ? new Vector3Int(1, 0, 0) : new Vector3Int(-1, 0, 0);
         return delta.y > 0 ? new Vector3Int(0, 1, 0) : new Vector3Int(0, -1, 0);
     }
-
-    // --- Kayma (slide) hareketi ---
 
     // Verilen yönde, kavşağa / duvara / çıkışa kadar gidilecek hücre listesini hesaplar.
     private List<Vector3Int> ComputeSlidePath(Vector3Int startCell, Vector3Int startDir)
@@ -353,8 +347,6 @@ public class PlayerController : MonoBehaviour
 
         RefreshDots();
     }
-
-    // --- Hareket noktaları ---
 
     private void RefreshDots()
     {

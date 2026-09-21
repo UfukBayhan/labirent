@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// Player'ın arkasında sönen parlak bir iz bırakır (referans görseldeki gibi).
+// Oyuncunun arkasında sönen bir iz bırakır.
 // Player objesine eklenir. Level başında ışınlanma çizgisi oluşmaması için
 // maze yeniden üretildiğinde izi temizler.
 public class PlayerTrail : MonoBehaviour

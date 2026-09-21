@@ -62,7 +62,6 @@ public class LabirentLevelHud : MonoBehaviour
         if (gameManager)
             gameManager.OnLevelStateChanged -= HandleLevelStateChanged;
     }
-/*  */
     private void HandleLevelStateChanged(LabirentLevelState state)
     {
         if (state == null || state.levelNumber <= 0)

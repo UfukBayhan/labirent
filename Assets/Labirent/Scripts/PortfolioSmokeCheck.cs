@@ -101,7 +101,6 @@ public class PortfolioSmokeCheck : MonoBehaviour
 
     private static void CaptureFrame(string filename)
     {
-        // Capture the actual game and UI from the standalone player's camera.
         var camera = Camera.main;
         foreach (var canvas in FindObjectsByType<Canvas>(FindObjectsSortMode.None))
         {
