@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 32a1b6b79555c9642b34b4801684cbfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6578592916441862835
+    second: LABIRENT-01_0
+  - first:
+      213: -7249715657762690128
+    second: LABIRENT-01_1
+  - first:
+      213: -5913329251011807313
+    second: LABIRENT-01_2
+  - first:
+      213: -6599802602887873744
+    second: LABIRENT-01_3
+  - first:
+      213: -115842558425332215
+    second: LABIRENT-01_4
+  - first:
+      213: 168541628382030865
+    second: LABIRENT-01_5
+  - first:
+      213: -8257239825452137764
+    second: LABIRENT-01_6
+  - first:
+      213: -7528575138227918100
+    second: LABIRENT-01_7
+  - first:
+      213: 284138342156090830
+    second: LABIRENT-01_8
+  - first:
+      213: -6476495665976728164
+    second: LABIRENT-01_9
+  - first:
+      213: -7484448858238814521
+    second: LABIRENT-01_10
+  - first:
+      213: 6448052946396935475
+    second: LABIRENT-01_11
+  - first:
+      213: 6093684888426399546
+    second: LABIRENT-01_12
+  - first:
+      213: -7018716984272568978
+    second: LABIRENT-01_13
+  - first:
+      213: -30744102858237437
+    second: LABIRENT-01_14
+  - first:
+      213: -5768758251098796459
+    second: LABIRENT-01_15
+  - first:
+      213: -2966344100430091899
+    second: LABIRENT-01_16
+  - first:
+      213: 6473999537884772361
+    second: LABIRENT-01_17
+  - first:
+      213: 8993562584834196855
+    second: LABIRENT-01_18
+  - first:
+      213: -1835552719840940255
+    second: LABIRENT-01_19
+  - first:
+      213: 4872962131755159037
+    second: LABIRENT-01_20
+  - first:
+      213: 4505322332466298577
+    second: LABIRENT-01_21
+  - first:
+      213: 5316718382352341735
+    second: LABIRENT-01_22
+  - first:
+      213: 2676291982481233448
+    second: LABIRENT-01_23
+  - first:
+      213: 1319265738677488984
+    second: LABIRENT-01_24
+  - first:
+      213: 598446162820849463
+    second: LABIRENT-01_25
+  - first:
+      213: -3880977876824967931
+    second: LABIRENT-01_26
+  - first:
+      213: 6018529398495586913
+    second: LABIRENT-01_27
+  - first:
+      213: -4476824844374235563
+    second: LABIRENT-01_28
+  - first:
+      213: 3017878993078329023
+    second: LABIRENT-01_29
+  - first:
+      213: 4170635345436123658
+    second: LABIRENT-01_30
+  - first:
+      213: 2350856323993449830
+    second: LABIRENT-01_31
+  - first:
+      213: -2248124999802968312
+    second: LABIRENT-01_32
+  - first:
+      213: 4727657015948882003
+    second: LABIRENT-01_33
+  - first:
+      213: -1681885322285698218
+    second: LABIRENT-01_34
+  - first:
+      213: -7138334096071333410
+    second: LABIRENT-01_35
+  - first:
+      213: -7185840562603280747
+    second: LABIRENT-01_36
+  - first:
+      213: 9048039318608720634
+    second: LABIRENT-01_37
+  - first:
+      213: -5362444280740510633
+    second: LABIRENT-01_38
+  - first:
+      213: 668241503651802267
+    second: LABIRENT-01_39
+  - first:
+      213: 8492425789954951664
+    second: LABIRENT-01_40
+  - first:
+      213: -815793623283563365
+    second: LABIRENT-01_41
+  - first:
+      213: 4390397208011020868
+    second: LABIRENT-01_42
+  - first:
+      213: -5966107672619832084
+    second: LABIRENT-01_43
+  - first:
+      213: 5800077818243911882
+    second: LABIRENT-01_44
+  - first:
+      213: -38569766527803707
+    second: LABIRENT-01_45
+  - first:
+      213: -3451256438575481986
+    second: LABIRENT-01_46
+  - first:
+      213: -1417065826579864122
+    second: LABIRENT-01_47
+  - first:
+      213: -614166163553122692
+    second: LABIRENT-01_48
+  - first:
+      213: 2468448749849447543
+    second: LABIRENT-01_49
+  - first:
+      213: 1519743160090343419
+    second: LABIRENT-01_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LABIRENT-01_0
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2197
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21b62176bdb4b50800000000000000
+      internalID: 6578592916441862835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_1
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2196
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bba7781506d36b90800000000000000
+      internalID: -7249715657762690128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_2
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2196
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b3895062afeda0800000000000000
+      internalID: -5913329251011807313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_3
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2196
+        width: 33
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b7b2bff7ac864a0800000000000000
+      internalID: -6599802602887873744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_4
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 2197
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9068f2f8ec1746ef0800000000000000
+      internalID: -115842558425332215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_5
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2254
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca391d7b7c65200800000000000000
+      internalID: 168541628382030865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_6
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2196
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd287b2a024686d80800000000000000
+      internalID: -8257239825452137764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_7
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 2194
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6615ccc0258790800000000000000
+      internalID: -7528575138227918100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_8
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 2197
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3847115671f300800000000000000
+      internalID: 284138342156090830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_9
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 2197
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95a918718dde16a0800000000000000
+      internalID: -6476495665976728164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_10
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2219
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6f811fa65e12890800000000000000
+      internalID: -7484448858238814521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1491
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33576e2ddf51c7950800000000000000
+      internalID: 6448052946396935475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_12
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1659
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3742dbce1e119450800000000000000
+      internalID: 6093684888426399546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_13
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1659
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dbe6de612889e90800000000000000
+      internalID: -7018716984272568978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_14
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 339
+        width: 1513
+        height: 1724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a523eb666c29ff0800000000000000
+      internalID: -30744102858237437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_15
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1489
+        width: 132
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e07205fe041ffa0800000000000000
+      internalID: -5768758251098796459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1493
+        width: 56
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e94cc1cd65d6d0800000000000000
+      internalID: -2966344100430091899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_17
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1490
+        width: 121
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9083aab674448d950800000000000000
+      internalID: 6473999537884772361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_18
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1491
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775494e558d8fcc70800000000000000
+      internalID: 8993562584834196855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1386
+        width: 156
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe067c68ec686e0800000000000000
+      internalID: -1835552719840940255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_20
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1493
+        width: 56
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd4233ad3d30a340800000000000000
+      internalID: 4872962131755159037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_21
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1176
+        width: 122
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb9498ace168e30800000000000000
+      internalID: 4505322332466298577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1341
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea96e61337c8c940800000000000000
+      internalID: 5316718382352341735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1341
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8261503e069142520800000000000000
+      internalID: 2676291982481233448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1176
+        width: 122
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d07361339fe4210800000000000000
+      internalID: 1319265738677488984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_25
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1341
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fd1284d9b1e4800800000000000000
+      internalID: 598446162820849463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1341
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b2beee2ff32ac0800000000000000
+      internalID: -3880977876824967931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_27
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1177
+        width: 147
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2393b99c168350800000000000000
+      internalID: 6018529398495586913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_28
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1178
+        width: 59
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5562e65f58f1fd1c0800000000000000
+      internalID: -4476824844374235563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_29
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1177
+        width: 147
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe1c8d64f8a1e920800000000000000
+      internalID: 3017878993078329023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1177
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02a86cefb211e930800000000000000
+      internalID: 4170635345436123658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1178
+        width: 121
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6653c9d0f5bef9020800000000000000
+      internalID: 2350856323993449830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_32
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1179
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807a118493e0dc0e0800000000000000
+      internalID: -2248124999802968312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_33
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1074
+        width: 156
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350348ff1030c9140800000000000000
+      internalID: 4727657015948882003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_34
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1179
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653b73cd53eb8a8e0800000000000000
+      internalID: -1681885322285698218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_35
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1178
+        width: 121
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9eb9bc5fa8fec90800000000000000
+      internalID: -7138334096071333410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_36
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1179
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596307d9414c64c90800000000000000
+      internalID: -7185840562603280747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 849
+        width: 124
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2b07b52d7119d70800000000000000
+      internalID: 9048039318608720634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_38
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 848
+        width: 147
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75403ae8655c495b0800000000000000
+      internalID: -5362444280740510633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_39
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 848
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ca6596b12164900800000000000000
+      internalID: 668241503651802267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_40
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 848
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f981abd2482bd570800000000000000
+      internalID: 8492425789954951664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_41
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 848
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94872a9508bda4f0800000000000000
+      internalID: -815793623283563365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_42
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1018
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a1d56dff2ddec30800000000000000
+      internalID: 4390397208011020868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 848
+        width: 132
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec23c97ea0243da0800000000000000
+      internalID: -5966107672619832084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_44
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 849
+        width: 121
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac01d0aab040e7050800000000000000
+      internalID: 5800077818243911882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_45
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 850
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce5a0f6009f67ff0800000000000000
+      internalID: -38569766527803707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_46
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 850
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bbdedfd8caa10d0800000000000000
+      internalID: -3451256438575481986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_47
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 850
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5ac5f7322955ce0800000000000000
+      internalID: -1417065826579864122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_48
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 852
+        width: 56
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c760a54d02b0a77f0800000000000000
+      internalID: -614166163553122692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_49
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 849
+        width: 121
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c88014f01b14220800000000000000
+      internalID: 2468448749849447543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LABIRENT-01_50
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 850
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b3072a56371510800000000000000
+      internalID: 1519743160090343419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LABIRENT-01_0: 6578592916441862835
+      LABIRENT-01_1: -7249715657762690128
+      LABIRENT-01_10: -7484448858238814521
+      LABIRENT-01_11: 6448052946396935475
+      LABIRENT-01_12: 6093684888426399546
+      LABIRENT-01_13: -7018716984272568978
+      LABIRENT-01_14: -30744102858237437
+      LABIRENT-01_15: -5768758251098796459
+      LABIRENT-01_16: -2966344100430091899
+      LABIRENT-01_17: 6473999537884772361
+      LABIRENT-01_18: 8993562584834196855
+      LABIRENT-01_19: -1835552719840940255
+      LABIRENT-01_2: -5913329251011807313
+      LABIRENT-01_20: 4872962131755159037
+      LABIRENT-01_21: 4505322332466298577
+      LABIRENT-01_22: 5316718382352341735
+      LABIRENT-01_23: 2676291982481233448
+      LABIRENT-01_24: 1319265738677488984
+      LABIRENT-01_25: 598446162820849463
+      LABIRENT-01_26: -3880977876824967931
+      LABIRENT-01_27: 6018529398495586913
+      LABIRENT-01_28: -4476824844374235563
+      LABIRENT-01_29: 3017878993078329023
+      LABIRENT-01_3: -6599802602887873744
+      LABIRENT-01_30: 4170635345436123658
+      LABIRENT-01_31: 2350856323993449830
+      LABIRENT-01_32: -2248124999802968312
+      LABIRENT-01_33: 4727657015948882003
+      LABIRENT-01_34: -1681885322285698218
+      LABIRENT-01_35: -7138334096071333410
+      LABIRENT-01_36: -7185840562603280747
+      LABIRENT-01_37: 9048039318608720634
+      LABIRENT-01_38: -5362444280740510633
+      LABIRENT-01_39: 668241503651802267
+      LABIRENT-01_4: -115842558425332215
+      LABIRENT-01_40: 8492425789954951664
+      LABIRENT-01_41: -815793623283563365
+      LABIRENT-01_42: 4390397208011020868
+      LABIRENT-01_43: -5966107672619832084
+      LABIRENT-01_44: 5800077818243911882
+      LABIRENT-01_45: -38569766527803707
+      LABIRENT-01_46: -3451256438575481986
+      LABIRENT-01_47: -1417065826579864122
+      LABIRENT-01_48: -614166163553122692
+      LABIRENT-01_49: 2468448749849447543
+      LABIRENT-01_5: 168541628382030865
+      LABIRENT-01_50: 1519743160090343419
+      LABIRENT-01_6: -8257239825452137764
+      LABIRENT-01_7: -7528575138227918100
+      LABIRENT-01_8: 284138342156090830
+      LABIRENT-01_9: -6476495665976728164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
