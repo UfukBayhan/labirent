@@ -53,10 +53,13 @@ public static class PortfolioBuild
         MakeButtonLabel("BackToSellect", "Menu", font);
         MakeButtonLabel("PauseButton", "II", font);
         var exit = GameObject.Find("Exit").GetComponent<SpriteRenderer>();
-        exit.sprite = AssetDatabase.LoadAssetAtPath<Sprite>("Assets/Labirent/Tiles/DAIRE_BEYAZ.asset");
-        exit.color = new Color(1f, 0.78f, 0.16f, 1f);
+        exit.sprite = AssetDatabase.LoadAssetAtPath<Sprite>("Assets/Labirent/Tiles/KARE_BEYAZ_V01.asset");
+        exit.color = Color.white;
+        exit.transform.localRotation = Quaternion.Euler(0f, 0f, 45f);
         var portal = exit.GetComponent<Portal>();
         portal.glowColor = exit.color;
+        portal.glowSprite = exit.sprite;
+        portal.rotateSpeed = 0f;
         portal.baseSize = 0.75f / exit.sprite.bounds.size.x;
         var player = GameObject.Find("Player").GetComponent<SpriteRenderer>();
         float playerScale = 0.7f / player.sprite.bounds.size.x;
